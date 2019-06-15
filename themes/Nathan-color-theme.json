@@ -46,7 +46,7 @@
     "activityBarBadge.foreground": "#000000",
     "activityBar.background": "#191919",
     "activityBar.foreground": "#ffffff",
-    "activityBar.inactiveForeground": "#777",
+    "activityBar.inactiveForeground": "#ffffff66",
     "activityBar.dropBackground": "#191919",
     "editorLineNumber.foreground": "#90908a",
     "panelTitle.activeForeground": "#ffffff",
